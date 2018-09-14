@@ -2,7 +2,7 @@
 '''
 Copyright © 2018 nick3499@github
 Title ⟹ 'Current Weather Conditions: MesoPy (MesoWest API Wrapper)'
-Hosted ⟹ https://github.com/nick3499/xxxxxxxxx
+Hosted ⟹ https://github.com/nick3499/mesowest_latest_ob
 ISC License (ISC) ⟹ https://opensource.org/licenses/ISC
 MesoWest Python wrapper ⟹ https://github.com/mesowx/MesoPy
 API token required ⟹ https://synopticlabs.org/api/guides/?getstarted
