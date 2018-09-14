@@ -47,8 +47,7 @@ print(f'\033[34mLatest Weather Observation \033[0m ({s1}, {s})\n\
 \033[34mHumidity\033[0m: {s15}%\n\
 \033[34mDew point\033[0m: {s5}℉\n\
 \033[91mSolar radiation\033[0m: {s3} watts/m²\n\
-\033[34mWind direction\033[0m: {s6}\n\
-\033[34mWind direction\033[0m: {s8}°\n\
+\033[34mWind direction\033[0m: {s6} - {s8}°\n\
 \033[34mWind speed\033[0m: {s14} mph\n\
 \033[34mWind gust\033[0m: {s4} mph\n\
 \033[91mAir pressure\033[0m: {s7} inHg (KILROMEO4)\n\
