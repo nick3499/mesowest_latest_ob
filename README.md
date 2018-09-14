@@ -1,6 +1,8 @@
 # mesowest_latest_ob
 Python 3: MesoPy (MesoWest API Wrapper): Current Weather Conditions
 
+![img]
+
 ### Run Script in Bash
 
 ```sh
@@ -65,3 +67,5 @@ QC: OK
 >>> t
 17.78
 ```
+
+[img]: https://github.com/nick3499/mesowest_latest_ob/blob/master/mesowest_latest_ob.png "display of script in Bash"
