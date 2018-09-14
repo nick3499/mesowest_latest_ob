@@ -9,7 +9,7 @@ Python 3: MesoPy (MesoWest API Wrapper): Current Weather Conditions
 $ ./mesowest_latest_ob.py
 ```
 
-### Import the Meso function in the MesoPy Module
+### Import the Meso function from the MesoPy Module
 
 ```py
 from MesoPy import Meso
