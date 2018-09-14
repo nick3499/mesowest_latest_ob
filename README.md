@@ -68,4 +68,4 @@ QC: OK
 17.78
 ```
 
-[img]: https://github.com/nick3499/mesowest_latest_ob/blob/master/mesowest_latest_ob.png "display of script in Bash"
+[img]: https://github.com/nick3499/mesowest_latest_ob/blob/master/display_example.png "display of script in Bash"
