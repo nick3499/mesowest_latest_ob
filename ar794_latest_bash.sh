@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 curl -s "http://api.mesowest.net/v2/stations/latest?&token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&stids=AR794" > latest.json
 
 printf '\e[31mTemperature-----------:\e[0m %.1f℉\n' $(echo | jq '(.STATION[0].OBSERVATIONS.air_temp_value_1.value * 1.8) + 32' latest.json)
