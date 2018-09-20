@@ -72,7 +72,7 @@ QC: OK
 
 ![img_sh]
 
-This small BASH shell script is in a single `.sh` file. Each line of the display shown above comes from a single `printf` call, where the format string can be found after the text string. Then the JSON weather data blob is piped to [jq](https://stedolan.github.io/jq/) which processes the JSON. Also, `jq` has math operators which were used to convert the values to preferred units of measure, e.g. mm to in, etc. Americanized, basically. So, if you are in Europe, you can remove the conversion calculation for precipitation, for example, and use the default value, which is in mm. Basic mult. and div. factors were applied. Easy peasy.
+This shell script teams up [Bash](https://www.gnu.org/software/bash/) with [jq](https://stedolan.github.io/jq/) and [cURL](https://curl.haxx.se/). Each line of the display shown above comes from a single `printf` call, where the format string can be found after the text string. Then the JSON weather data blob is piped to jq which processes the JSON. Also, `jq` has math operators which were used to convert the values to preferred units of measure, e.g. mm to in, etc. Americanized, basically. So, if you are in Europe, you can remove the conversion calculation for precipitation, for example, and use the default value, which is in mm. Basic mult. and div. factors were applied. Easy peasy.
 
 [img_sh]: https://github.com/nick3499/mesowest_latest_ob/blob/master/latest_ar794_bash.png "display of script in Bash"
 [img_py]: https://github.com/nick3499/mesowest_latest_ob/blob/master/display_example.png "display of script in Bash"
