@@ -76,3 +76,5 @@ This shell script teams up [Bash](https://www.gnu.org/software/bash/) with [jq](
 
 [img_sh]: https://github.com/nick3499/mesowest_latest_ob/blob/master/latest_ar794_bash.png "display of script in Bash"
 [img_py]: https://github.com/nick3499/mesowest_latest_ob/blob/master/display_example.png "display of script in Bash"
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
